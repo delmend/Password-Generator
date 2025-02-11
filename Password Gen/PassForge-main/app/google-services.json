@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "680633822959",
+    "project_id": "passsforge",
+    "storage_bucket": "passsforge.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680633822959:android:75da7b1ea18b594733751a",
+        "android_client_info": {
+          "package_name": "com.secureforge.passforge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680633822959-fc5ng0h3ufrljjvim8lu1a3cjebufep0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbBTmsHeOGMmYsQHeoysYmotUxiJ1oYMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680633822959-fc5ng0h3ufrljjvim8lu1a3cjebufep0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
